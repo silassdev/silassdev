@@ -1,16 +1,39 @@
-## Hi there 👋
+# Silas — Web Developer Portfolio
 
-<!--
-**silassdev/silassdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img alt="Java" src="https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=java&logoColor=white" />
+  <img alt="Spring" src="https://img.shields.io/badge/-Spring%20Boot-black?style=for-the-badge&logo=spring&logoColor=white" />
+  <img alt="JS" src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img alt="TS" src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&logoColor=white" />
+  <img alt="Next" src="https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="Postgres" src="https://img.shields.io/badge/-PostgreSQL-black?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
 
-Here are some ideas to get you started:
+## About
+Java / Spring Boot services, modern React/Next apps, and practical database integrations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Highlights
+- Clean, production-minded code
+- Small, focused projects you can fork and run
+- Readme-first approach: every project includes setup + quick demo
+
+## Quick start
+1. Clone the repo  
+   `git clone https://github.com/your-username/your-repo.git`
+2. Open the project folder you need and follow its README for setup
+3. Run tests and examples as documented per-project
+
+## Projects
+- `spring-service/` — Java + Spring Boot microservices (MySQL / PostgreSQL examples)
+- `next-frontend/` — Next.js + TypeScript + Tailwind starter
+- `mern-sample/` — MongoDB + Express + React + Node demo
+
+## Contact
+- GitHub: `github.com/your-username`
+- Email: your.email@example.com
+
+## License
+MIT © Stain Pilar

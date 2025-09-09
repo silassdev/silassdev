@@ -20,11 +20,6 @@ Java / Spring Boot services, modern React/Next apps, and practical database inte
 - Small, focused projects you can fork and run
 - Readme-first approach: every project includes setup + quick demo
 
-## Quick start
-1. Clone the repo  
-   `git clone https://github.com/your-username/your-repo.git`
-2. Open the project folder you need and follow its README for setup
-3. Run tests and examples as documented per-project
 
 ## Projects
 - `spring-service/` — Java + Spring Boot microservices (MySQL / PostgreSQL examples)
@@ -32,8 +27,4 @@ Java / Spring Boot services, modern React/Next apps, and practical database inte
 - `mern-sample/` — MongoDB + Express + React + Node demo
 
 ## Contact
-- GitHub: `github.com/your-username`
-- Email: your.email@example.com
-
-## License
-MIT © Stain Pilar
+- Email: 9shila@gmail.com

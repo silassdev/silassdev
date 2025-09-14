@@ -34,12 +34,9 @@ Practical full-stack projects: production-minded Java / Spring Boot services, La
 Java · Spring Boot · Laravel · PHP · REST API · React · Next.js · TypeScript · Tailwind CSS · Blade · Alpine.js · Livewire · MySQL · MariaDB · PostgreSQL · MongoDB · Git · GitHub · cPanel
 
 ## Projects
-- `spring-library/` — Java + Spring Boot (MySQL)  
-- `laravel-app/` — Laravel + Blade + Alpine.js + Livewire (MariaDB on cPanel)  
-- `next-frontend/` — Next.js + TypeScript + Tailwind  
-- `mern-sample/` — MongoDB + Express + React + Node
+- `library-CRUD-operations/` — Java + Spring Boot + MySQL
+- `IT-solution-app/` — Laravel + Blade + Alpine.js + Livewire (MariaDB on cPanel)  
+- `hostel-management-app/` — Next.js + TypeScript + Tailwind + PostgreSQL  
+- `Blog-app/` — MongoDB + Express + React + Node
+- `auto-logout-npm-package/` — Typescript + Express
 
-
-## Contact
-Email: 9shila@gmail.com  
-GitHub: github.com/silassdev

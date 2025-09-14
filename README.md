@@ -34,17 +34,11 @@ Practical full-stack projects: production-minded Java / Spring Boot services, La
 Java · Spring Boot · Laravel · PHP · REST API · React · Next.js · TypeScript · Tailwind CSS · Blade · Alpine.js · Livewire · MySQL · MariaDB · PostgreSQL · MongoDB · Git · GitHub · cPanel
 
 ## Projects
-- `spring-library/` — Java + Spring Boot (MySQL / PostgreSQL)  
+- `spring-library/` — Java + Spring Boot (MySQL)  
 - `laravel-app/` — Laravel + Blade + Alpine.js + Livewire (MariaDB on cPanel)  
 - `next-frontend/` — Next.js + TypeScript + Tailwind  
 - `mern-sample/` — MongoDB + Express + React + Node
 
-
-## cPanel deployment (smart combo)
-1. Target Laravel `public/` as document root (or use subdomain)  
-2. Ensure PHP ≥ 8.x, required extensions and Composer (or upload vendor/)  
-3. Use Blade + Alpine.js + Livewire to minimize heavy SPA builds  
-4. Preferred flow: GitHub → cPanel Git or GitHub Actions → run composer, migrate, cache, storage:link
 
 ## Contact
 Email: 9shila@gmail.com  

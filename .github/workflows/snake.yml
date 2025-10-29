@@ -19,6 +19,7 @@ jobs:
           github_user_name: silassdev
           outputs: |
             dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
 
       - name: Push Snake to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0

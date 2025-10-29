@@ -2,14 +2,13 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # runs every day at midnight UTC
-  workflow_dispatch:       # allows you to run it manually
-
+    - cron: "0 */6 * * *"  
+  workflow_dispatch:      
 jobs:
   generate:
     runs-on: ubuntu-latest
     permissions:
-      contents: write      # needed to push the file back to the repo
+      contents: write
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3

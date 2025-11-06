@@ -1,5 +1,11 @@
-<h1 align="center">Hi 👋, I'm Silas Tyokaha</h1>
-<h3 align="center">A jnr full-stack developer from Nigeria</h3>
+<h2 align="left">Silas Tyokaha</h1>
+<h3 align="left">A Full-stack developer from Nigeria</h3>
+
+Focus :
+  1. Fullstack Web application development and deployment
+  2. Custom APIs
+  3. Authentication and Security
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=silassdev&label=Profile%20views&color=0e75b6&style=flat" alt="silassdev" /> </p>
 

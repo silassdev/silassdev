@@ -1,5 +1,5 @@
-<h2 align="left">Silas Tyokaha</h1>
-<h5 align="left">A Full-stack developer from Nigeria</h5>
+
+<h5 align="left">Hey there, I'm <br>Silas Tyokaha <br/> A Full-stack developer from Nigeria</h5>
 
 
 --
@@ -51,6 +51,5 @@ Focus :
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/silassdev/silassdev/output/snake.svg" alt="Snake animation" />
 
 ###

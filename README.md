@@ -51,6 +51,28 @@
 
   
 
+<div align="center">
+<a href="https://github.com/silassdev">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=silassdev&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=silassdev&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=silassdev&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=silassdev&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=silassdev&theme=2077" height="180em" />
+</div>
+
+
+--
+
+
+
+
+
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=silassdev&show_icons=true&locale=en&layout=compact" alt="silassdev" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=silassdev&" alt="silassdev" /></p>
+
 
 ###
 

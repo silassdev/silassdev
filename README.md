@@ -1,3 +1,6 @@
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+
+
 <h1 align="center">Hi , I'm Silas Tyokaha</h1>
 <h3 align="center">Fullstack Engineer </h3>
 - I’m currently working on [LMS Software](https://github.com/silassdev/crispy-sniffle)
@@ -46,7 +49,6 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/silassdev">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=silassdev&theme=2077" height="180em" />

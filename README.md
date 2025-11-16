@@ -4,7 +4,7 @@
 <h1 align="center">Hi , I'm Silas Tyokaha</h1>
 <h3 align="center">Fullstack Engineer </h3>
 - I’m currently working on [LMS Software](https://github.com/silassdev/crispy-sniffle)
-- I’m looking for help with **Ai**
+- I’m looking for help with **Python & Java**
 - I’m currently learning **PHP**
 - Ask me about **Typescript - Next.js, Larvel - PHP**
 
@@ -61,17 +61,6 @@
 </div>
 
 
---
-
-
-
-
-
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=silassdev&show_icons=true&locale=en&layout=compact" alt="silassdev" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=silassdev&" alt="silassdev" /></p>
 
 
 ###

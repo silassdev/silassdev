@@ -35,7 +35,7 @@ I design and implement scalable web applications and developer tooling across th
 ## Selected certifications
 
 <div class="flex flex-wrap gap-3">
-  <a href="[#VERIFY_LINK_AWS](https://xaltius.learner.adroit-lms.com/public/certificate?cid=20bb2a7c-9ace-4440-af09-a4be573ae1c2)" target="_blank" rel="noopener noreferrer"
+  <a href="[#https://xaltius.learner.adroit-lms.com/public/certificate?cid=20bb2a7c-9ace-4440-af09-a4be573ae1c2]" target="_blank" rel="noopener noreferrer"
      class="px-4 py-2 bg-gray-900 text-white rounded-full text-sm shadow hover:opacity-90">
     Software Engineering Certificate (Xaltius Academy)
   </a>
@@ -107,7 +107,6 @@ Connect: Twitter · LinkedIn · GitHub · Hashnode · YouTube · LeetCode · Cod
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=silassdev&" alt="silassdev" /></p>
 
 <div align="center">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=silassdev&theme=2077" height="150em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=silassdev&theme=2077" height="150em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=silassdev&theme=2077" height="150em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=silassdev&theme=2077" height="150em" />

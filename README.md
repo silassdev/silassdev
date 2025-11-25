@@ -35,12 +35,12 @@ I design and implement scalable web applications and developer tooling across th
 ## Selected certifications
 
 <div class="flex flex-wrap gap-3">
-  <a href="[#https://xaltius.learner.adroit-lms.com/public/certificate?cid=20bb2a7c-9ace-4440-af09-a4be573ae1c2]" target="_blank" rel="noopener noreferrer"
+  <a href="#https://xaltius.learner.adroit-lms.com/public/certificate?cid=20bb2a7c-9ace-4440-af09-a4be573ae1c2" target="_blank" rel="noopener noreferrer"
      class="px-4 py-2 bg-gray-900 text-white rounded-full text-sm shadow hover:opacity-90">
     Software Engineering Certificate (Xaltius Academy)
   </a>
 
-  <a href="#VERIFY_LINK_META" target="_blank" rel="noopener noreferrer"
+  <a href="#https://www.theforage.com/completion-certificates/skoQmxqhtgWmKv2pm/km4rw7dihDr3etqom_skoQmxqhtgWmKv2pm_CcbCiGcpmKRF35aET_1757346257033_completion_certificate.pdf" target="_blank" rel="noopener noreferrer"
      class="px-4 py-2 bg-indigo-600 text-white rounded-full text-sm shadow hover:opacity-90">
     Meta Frontend Certificate
   </a>

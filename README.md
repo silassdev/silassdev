@@ -33,38 +33,30 @@ I design and implement scalable web applications and developer tooling across th
 ---
 
 ## Selected certifications
-Replace placeholder links with verification URLs or badge images for each certificate you hold.
 
-- ![AWS Certified Developer](https://img.shields.io/badge/AWS%20Certified-Developer%20Associate-232F3E?style=for-the-badge&logo=amazonaws) **AWS Certified Developer – Associate** — cloud-native app development, serverless, IAM. _(Issuer: Amazon Web Services)_  
-  Verification: `REPLACE_WITH_LINK`
+<div class="flex flex-wrap gap-3">
+  <a href="[#VERIFY_LINK_AWS](https://xaltius.learner.adroit-lms.com/public/certificate?cid=20bb2a7c-9ace-4440-af09-a4be573ae1c2)" target="_blank" rel="noopener noreferrer"
+     class="px-4 py-2 bg-gray-900 text-white rounded-full text-sm shadow hover:opacity-90">
+    Software Engineering Certificate (Xaltius Academy)
+  </a>
 
-- ![Google Cloud Developer](https://img.shields.io/badge/Google%20Cloud-Professional%20Cloud%20Developer-4285F4?style=for-the-badge&logo=googlecloud) **Google Professional Cloud Developer** — GCP services, CI/CD, deployments. _(Issuer: Google Cloud)_  
-  Verification: `REPLACE_WITH_LINK`
+  <a href="#VERIFY_LINK_META" target="_blank" rel="noopener noreferrer"
+     class="px-4 py-2 bg-indigo-600 text-white rounded-full text-sm shadow hover:opacity-90">
+    Meta Frontend Certificate
+  </a>
 
-- ![Oracle Java](https://img.shields.io/badge/Oracle-Java%20SE%20Cert-007396?style=for-the-badge&logo=oracle) **Oracle Certified Professional: Java SE 11 Developer** — core Java, concurrency, JVM internals. _(Issuer: Oracle)_  
-  Verification: `REPLACE_WITH_LINK`
+  <a href="#VERIFY_LINK_FCC" target="_blank" rel="noopener noreferrer"
+     class="px-4 py-2 bg-teal-700 text-white rounded-full text-sm shadow hover:opacity-90">
+    Responsive Web Design (freeCodeCamp)
+  </a>
 
-- ![CKAD](https://img.shields.io/badge/CNCF-CKAD-326CE5?style=for-the-badge&logo=kubernetes) **Certified Kubernetes Application Developer (CKAD)** — containerized app design, manifests, services. _(Issuer: CNCF)_  
-  Verification: `REPLACE_WITH_LINK`
+  <a href="#VERIFY_LINK_LARAVEL" target="_blank" rel="noopener noreferrer"
+     class="px-4 py-2 bg-purple-700 text-white rounded-full text-sm shadow hover:opacity-90">
+    Laravel Fundamentals
+  </a>
+</div>
 
-- ![Docker Certified](https://img.shields.io/badge/Docker-Certified%20Associate-2496ED?style=for-the-badge&logo=docker) **Docker Certified Associate** — image design, registries, container best practices. _(Issuer: Docker)_  
-  Verification: `REPLACE_WITH_LINK`
 
-- ![Laravel](https://img.shields.io/badge/Laravel-Certified%20Developer-FF2D20?style=for-the-badge&logo=laravel) **Laravel Certified Developer** — Eloquent, queues, testing, package development. _(Issuer: Laravel ecosystem)_  
-  Verification: `REPLACE_WITH_LINK`
-
-- ![PSM I](https://img.shields.io/badge/Scrum-PSM%20I-6DB33F?style=for-the-badge&logo=scrumalliance) **Professional Scrum Master I (PSM I)** — Agile delivery and team facilitation. _(Issuer: Scrum.org)_  
-  Verification: `REPLACE_WITH_LINK`
-
-> Tip: remove any certification rows you don't actually hold; keep the ones you do and replace `REPLACE_WITH_LINK` with a public verification URL.
-
----
-
-## Notable projects & highlights
-- Implemented role-based access control and multi-role dashboards (students, trainers, admins) for LMS products.  
-- Designed background job pipelines for email delivery, file processing, and reports.  
-- Built hybrid data architectures combining relational and document databases with caching layers for performance.  
-- Created CI/CD pipelines enabling automated tests and zero-downtime deployments.
 
 ---
 
@@ -115,11 +107,11 @@ Connect: Twitter · LinkedIn · GitHub · Hashnode · YouTube · LeetCode · Cod
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=silassdev&" alt="silassdev" /></p>
 
 <div align="center">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=silassdev&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=silassdev&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=silassdev&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=silassdev&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=silassdev&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=silassdev&theme=2077" height="150em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=silassdev&theme=2077" height="150em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=silassdev&theme=2077" height="150em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=silassdev&theme=2077" height="150em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=silassdev&theme=2077" height="150em" />
 </div>
 
 ---

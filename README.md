@@ -113,9 +113,9 @@ Connect: Twitter · LinkedIn · GitHub · Hashnode · YouTube · LeetCode · Cod
 
 ---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=silassdev&" alt="silassdev" /></p>
 
 <div align="center">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=silassdev&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=silassdev&theme=2077" height="150em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=silassdev&theme=2077" height="150em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=silassdev&theme=2077" height="150em" />

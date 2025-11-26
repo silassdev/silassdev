@@ -1,8 +1,8 @@
-// app/layout.tsx
 import './globals.css';
 import { Roboto } from 'next/font/google';
 import Header from '@/components/layout/Header';
 import Footer from '@/components/layout/Footer';
+import { Providers } from './providers';
 
 const roboto = Roboto({
   subsets: ['latin'],
@@ -11,13 +11,20 @@ const roboto = Roboto({
   display: 'swap',
 });
 
+export const metadata = {
+  title: 'Portfolio',
+  description: 'Modern portfolio',
+};
+
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="en">
-      <body className={`${roboto.variable} font-sans bg-gray-50 dark:bg-gray-900 text-gray-900 dark:text-gray-100`}>
-        <Header />
-        <main className="min-h-screen pt-20">{children}</main>
-        <Footer />
+    <html lang="en" className={roboto.variable}>
+      <body className="font-sans bg-gray-50 dark:bg-gray-900 text-gray-900 dark:text-gray-100">
+        <Providers>
+          <Header />
+          <main className="min-h-screen pt-20">{children}</main>
+          <Footer />
+        </Providers>
       </body>
     </html>
   );

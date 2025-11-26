@@ -1,4 +1,3 @@
-// app/page.tsx
 import Skills from '@/components/sections/Skills';
 import ClientHero from '@/components/sections/Hero';
 

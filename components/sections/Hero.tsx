@@ -12,7 +12,7 @@ export default function Hero() {
             transition={{ delay: 0.05 }}
             className="text-4xl md:text-5xl font-extrabold"
           >
-            Hi, I’m Your Name — Full-stack engineer.
+            Hi, I’m Silas Tyokaha — Full-stack engineer.
           </motion.h1>
 
           <motion.p

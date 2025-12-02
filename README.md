@@ -115,6 +115,6 @@ Connect: Twitter · LinkedIn · GitHub · Hashnode · YouTube · LeetCode · Cod
 
 
 <div align="center">
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=cobalt&preferLogin=false">    <img  alt="silassdev's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/silassdev?cardType=github&theme=cobalt&preferLogin=false" />  </a>
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=octocat&theme=cobalt&preferLogin=false">    <img  alt="silassdev's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/silassdev?cardType=octocat&theme=cobalt&preferLogin=false" />  </a>
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=silassdev&theme=2077" height="150em" />
 </div>

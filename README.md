@@ -115,7 +115,7 @@ Connect: Twitter · LinkedIn · GitHub · Hashnode · YouTube · LeetCode · Cod
 
 
 <div align="center">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=silassdev&theme=2077" height="180em" />
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/silassdev?cardType=github&theme=cobalt&preferLogin=false)](https://git.io/awesome-stats-card)
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=silassdev&theme=2077" height="150em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=silassdev&theme=2077" height="150em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=silassdev&theme=2077" height="150em" />

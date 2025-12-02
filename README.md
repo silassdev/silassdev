@@ -64,7 +64,10 @@ I design and implement scalable web applications and developer tooling across th
 
 </div>
 
+---
+[![trophy](https://github-profile-trophy.vercel.app/?username=silassdev&theme=gitdimmed)](https://github.com/silassdev)
 
+<img src="https://github-profile-trophy.vercel.app/?username=silassdev&theme=dracula&margin-w=10&margin-h=8" alt="GitHub Trophies" />
 
 
 ---

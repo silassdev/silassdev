@@ -67,7 +67,7 @@ I design and implement scalable web applications and developer tooling across th
 ---
 [![trophy](https://github-profile-trophy.vercel.app/?username=silassdev&theme=gitdimmed)](https://github.com/silassdev)
 
----
+
 
 ## Links & social
 <div>

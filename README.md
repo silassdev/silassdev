@@ -22,6 +22,9 @@ I design and implement scalable web applications and developer tooling across th
 ## Current work
 - **LMS Software** — active development of a Learning Management System: user roles, courses, progress tracking, auth flows, reset-password workflows, and admin/trainer dashboards.  
   Repository: https://github.com/silassdev/crispy-sniffle
+- **Resume Builder** — rich professional resume builder application, built with Nextjs & Typescript.  
+  Repository: https://github.com/silassdev/ideal-fortnight
+
 
 ---
 

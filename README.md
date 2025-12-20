@@ -28,12 +28,6 @@ I design and implement scalable web applications and developer tooling across th
 
 ---
 
-## Focus & learning
-- Seeking collaboration/mentorship on **Python** and **Java** systems engineering.
-- Deepening production PHP expertise (Laravel patterns, testing, queues).
-- Architecting performant TypeScript/Next.js apps and SSR optimization.
-
----
 
 ## Selected certifications
 

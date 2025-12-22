@@ -5,7 +5,12 @@
 # Hi — I'm Silas
 ### Web App Developer
 
-I design and implement scalable web applications and developer tooling across the full stack. My work focuses on robust backend architectures (APIs, background processing, auth), performant frontends (React/Next.js, TypeScript, SSR), and pragmatic DevOps (CI/CD, containerization, monitoring). I own features end-to-end: requirements → architecture → implementation → testing → deployment.
+I turn product ideas into production — architecture, frontend, and DevOps
+Full-stack engineer: APIs, fast React frontends, and dependable deployments
+Building scalable web apps and developer tools, end-to-end
+I design robust backends, ship performant React/Next.js frontends, and deploy reliably
+From requirements to production: architecture → implementation → testing → deployment
+Full-stack developer — I own features end-to-end (APIs, frontends, CI/CD)
 
 ---
 

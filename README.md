@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=silassdev&label=Profile%20views&color=0e75b6&style=flat" alt="silassdev" />
 </p>
 
-# Hi — I'm Silas Tyokaha
+# Hi — I'm Silas
 ### Web App Developer
 
 I design and implement scalable web applications and developer tooling across the full stack. My work focuses on robust backend architectures (APIs, background processing, auth), performant frontends (React/Next.js, TypeScript, SSR), and pragmatic DevOps (CI/CD, containerization, monitoring). I own features end-to-end: requirements → architecture → implementation → testing → deployment.

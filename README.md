@@ -22,7 +22,5 @@ web developer and designer from Nigeria. Learning DevOps. I code with PHP, JavaS
 ## Current work
 - **LMS Software** — active development of a Learning Management System: user roles, courses, progress tracking, auth flows, reset-password workflows, and admin/trainer dashboards.  
   Repository: https://github.com/silassdev/crispy-sniffle
-- **Resume Builder** — rich professional resume builder application, built with Nextjs & Typescript.  
-  Repository: https://github.com/silassdev/ideal-fortnight
-
+  
 

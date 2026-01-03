@@ -5,7 +5,7 @@
 # Hi — I'm Silas
 
 
-web developer and designer from Nigeria. Learning DevOps. I code with PHP, JavaScript and TypeScript, build apps with Laravel, and I’m studying C++ in school.
+web developer and designer from Nigeria. Learning DevOps. I code with PHP, JavaScript and TypeScript, build apps with Laravel, and I’m also learning C++ in school.
 
 ---
 

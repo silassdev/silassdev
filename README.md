@@ -5,8 +5,7 @@
 # Hi — I'm Silas
 
 
-Full-stack web developer and designer based in Nigeria. I build production-ready web applications with a focus on clean architecture, maintainable code, and reliable delivery. I primarily work with PHP (Laravel), JavaScript, and TypeScript, and I’m currently learning DevOps practices and C++ .
----
+Full-stack web developer and designer based in Nigeria. I build production-ready web applications with a focus on clean architecture, maintainable code, and reliable delivery. I primarily work with PHP (Laravel), JavaScript, and TypeScript, and I’m currently learning DevOps practices and C++.
 
 ## Technical snapshot
 - **Primary languages:** PHP, TypeScript / JavaScript, Java, Python  

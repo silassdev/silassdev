@@ -8,7 +8,7 @@
 Full-stack web developer and designer based in Nigeria. I build production-ready web applications with a focus on clean architecture, maintainable code, and reliable delivery. I primarily work with PHP (Laravel), JavaScript, and TypeScript, and I’m currently learning DevOps practices and C++.
 
 ## Technical snapshot
-- **Primary languages:** PHP, TypeScript / JavaScript, Java, Python  
+- **Primary languages:** PHP, TypeScript / JavaScript, Java 
 - **Frontend:** React, Next.js, Tailwind CSS, Bootstrap, HTML5, CSS3  
 - **Backend & frameworks:** Laravel, Node.js, Express, Spring  
 - **Databases & storage:** MySQL, PostgreSQL, MongoDB, MariaDB, Redis, Firebase  
